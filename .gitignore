@@ -1,6 +1,9 @@
 # OS Specifics
 .DS_Store
 
+# Gradle
+gradle/
+
 # Built application files
 *.apk
 *.aar
